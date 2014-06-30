@@ -1,0 +1,14 @@
+.spoiled {
+	color: #1F1209 !important;
+	background-color: #1F1209 !important;
+	border: 3px solid #1F1209 !important;
+	transform:rotate(-2deg); 
+	-webkit-transform:rotate(-2deg); /*webkit (chrome) support */
+	-moz-transform:rotate(-2deg); /* Firefox */
+	-o-transform:(-2deg); /* Opera support)*/
+}
+
+.spoiled a {
+	text-decoration: none;
+	color: #1F1209 !important;
+}
