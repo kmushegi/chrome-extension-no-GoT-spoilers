@@ -3,6 +3,9 @@ chrome-extension-no-GoT-spoilers
 
 This Chrome extension blocks out all the information from the webpages you visit that contain "Game of Thrones" keyword.
 
+![](http://i.imgur.com/17hdUzr.png = 620x388)
+
+#How To Use#
 In order to install this extension, download the .zip file & unpack it.
 
 Then 
